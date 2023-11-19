@@ -5,7 +5,7 @@ This repository contains OpenFaaS functions designed for benchmarking purposes. 
 ## Functions Overview
 
 1. **cpu.py**
-   - This function performs CPU-intensive operations. It is suitable for benchmarking the CPU utilization of your OpenFaaS environment.
+   - The `cpu.py` function performs CPU-intensive operations. It is suitable for benchmarking the CPU utilization of your OpenFaaS environment.
 
 2. **io.py**
    - The `io.py` function focuses on simulating I/O-intensive tasks. Use this function to benchmark the I/O performance of your OpenFaaS setup.
